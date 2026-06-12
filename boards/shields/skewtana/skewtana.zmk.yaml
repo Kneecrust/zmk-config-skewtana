@@ -1,0 +1,11 @@
+file_format: "1"
+id: skewtana
+name: Skewtana
+type: shield
+url: https://github.com/Kneecrust/zmk-config-skewtana/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - nutymini_left
+  - nutymini_right
